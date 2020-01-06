@@ -22,8 +22,13 @@ export default {
    HomeIcons,
    HomeRecommend,
    HomeWeekend
+ },
+ data (){
+  return{
+    city:''
+  }
+ },
  }
-}
 </script>
 
 <style>
