@@ -47,7 +47,7 @@ export default {
            }
          },
         handleLetterChange (letter){
-            this.letter=letter
+            this.letter = letter
         }
         },
     mounted () {
